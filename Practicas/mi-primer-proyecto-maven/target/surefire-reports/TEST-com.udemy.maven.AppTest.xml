@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.udemy.maven.AppTest" time="0.289" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven\target\test-classes;C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven\target\classes;C:\Users\Pandita\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Pandita\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="America/Mexico_City"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="MX"/>
+    <property name="sun.boot.library.path" value="C:\Cursos\Spring5\sts-4.15.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Pandita\AppData\Local\Temp\surefire17153426087300720036\surefirebooter10321965045705503807.jar C:\Users\Pandita\AppData\Local\Temp\surefire17153426087300720036 2023-01-09T14-05-57_878-jvmRun1 surefire12341902176281890290tmp surefire_04215741980794539993tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven\target\test-classes;C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven\target\classes;C:\Users\Pandita\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Pandita\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Pandita"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="C:\Cursos\Spring5\sts-4.15.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Pandita\AppData\Local\Temp\surefire17153426087300720036\surefirebooter10321965045705503807.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3+7"/>
+    <property name="user.name" value="Pandita"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.3+7"/>
+    <property name="localRepository" value="C:\Users\Pandita\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Pandita\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.3"/>
+    <property name="user.dir" value="C:\Users\Pandita\Documents\Cursos 2023\Apache Maven\Practicas\mi-primer-proyecto-maven"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Cursos\Spring5\sts-4.15.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Cursos/Spring5/sts-4.15.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin/server;C:/Cursos/Spring5/sts-4.15.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416/jre/bin;C:\app\Pandita\product\21c\dbhomeXE\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Cursos\Spring5\jdk-18\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\wamp64\bin\php\php7.4.0;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Ruby30-x64\bin;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\;C:\Users\Pandita\AppData\Local\Microsoft\WindowsApps;C:\Users\Pandita\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\Pandita\AppData\Roaming\npm;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\nodejs\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\apache-maven-3.8.7\bin;C:\Users\Pandita\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Pandita\AppData\Local\Programs\Python\Python310\;C:\Cursos\Spring5\jdk-18\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Ruby30-x64\bin;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\;C:\Users\Pandita\AppData\Local\Microsoft\WindowsApps;C:\Users\Pandita\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\heroku\bin;C:\DBSQLite\sqlite-tools-win32-x86-3390200;C:\Users\Pandita\AppData\Roaming\npm;C:\Users\Pandita\AppData\Roaming\Composer\vendor\bin;C:\app\Pandita\product\21c\dbhomeXE\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Cursos\Spring5\jdk-18\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\wamp64\bin\php\php7.4.0;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Ruby30-x64\bin;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Pandita\AppData\Local\Programs\Python\Python39\;C:\Users\Pandita\AppData\Local\Microsoft\WindowsApps;C:\Users\Pandita\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\Pandita\AppData\Roaming\npm;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\nodejs\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\apache-maven-3.8.7\bin;;C:\PROGRA~2\ASPEL\ASPEL-~1.0;;C:\Cursos\Spring5\sts-4.15.1.RELEASE;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.3+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.udemy.maven.AppTest" time="0.009"/>
+</testsuite>
